@@ -1,7 +1,7 @@
 
 # **THE WHO-INDIA PENTADIC SURFACE**
 
-A single landing page that reads like a calm explanation, not an instruction manual.
+A single [landing page](https://ukb-dt.github.io/who-04-landing-page/) that reads like a calm explanation, not an instruction manual.
 
 ### **AI is an infrastructure.**
 
