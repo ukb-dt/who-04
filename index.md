@@ -158,3 +158,22 @@ I can generate:
 • the collapsible-depth sections            
 
 Just say the word, and I’ll build it in your existing GitHub-pages format.
+
+<div style="
+  margin-top: 3em;
+  padding: 1em 1.2em;
+  border-top: 1px solid #e0e0e0;
+  font-size: 0.9em;
+  color: #555;
+  text-align: right;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+">
+  <a href="https://ukb-dt.github.io/who-03/" 
+     style="text-decoration: none; color: #1a73e8; font-weight: 500;"
+     onmouseover="this.style.textDecoration='underline'; this.style.backgroundColor='#eef3fc';"
+     onmouseout="this.style.textDecoration='none'; this.style.backgroundColor='transparent';">
+    ← see previous version
+  </a>
+</div>
